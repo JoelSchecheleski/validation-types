@@ -1,0 +1,22 @@
+{
+  "name": "validation-types",
+  "version": "1.0.0",
+  "description": "Validação de tipos para projetos javascript/angular",
+  "main": "check-types.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelSchecheleski/validation-types.git"
+  },
+  "keywords": [
+    "validation-types"
+  ],
+  "author": "Joel Schecheleski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelSchecheleski/validation-types/issues"
+  },
+  "homepage": "https://github.com/JoelSchecheleski/validation-types#readme"
+}
